@@ -1,2 +1,0 @@
-# Laying Out the Map
-
